@@ -24,12 +24,6 @@ I bridge the gap between robust server-side logic and pixel-perfect mobile inter
 
 ---
 
-### 📊 GitHub Activity
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifeldien&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifeldien&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-ahmed-95a19a215)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sief.ahmed98@yahoo.com)
