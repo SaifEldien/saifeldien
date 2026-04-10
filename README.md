@@ -17,7 +17,7 @@ I bridge the gap between robust server-side logic and pixel-perfect mobile inter
 ---
 
 ### 📱 Featured Projects
-
+* **Fixit – Service Marketplace:**  A high-performance full-stack platform connecting clients with technicians. Features Socket.io for real-time chat and Live GPS tracking with a clean BLoC/Cubit architecture.
 * **My Devices Asset Management:** A full-stack system for tracking and managing device rentals with live geolocation.
 * **Hello Pal:** A bilingual social networking app with real-time translation and voice/video calling.
 * **Your Days:** A mood-tracking journal published on the Google Play Store.
